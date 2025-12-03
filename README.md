@@ -2,7 +2,7 @@
 
 This Power BI project provides an operations analysis dashboard designed to monitor, track, and optimize warehouse performance. The goal is to equip supply chain, logistics, and warehouse management teams with a powerful tool to understand inventory movement, operational efficiency, and order fulfilment performance.
 
-🔗 Live Dashboard : *Add your GitHub .pbix link here*  
+🔗 Live Dashboard : *https://github.com/SrijanMallick/Warehouse-Supply-Chain-Analysis/blob/main/Inventory%20and%20Supply%20Chain%20Management.pbix*  
 
 🎯 Business Objective
 1. Warehouses are critical for ensuring smooth product flow, timely fulfilment, and controlled inventory levels. Inefficiencies directly lead to delays, stockouts, excess storage, and increased operational costs.
